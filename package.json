@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "prestart": "node prestart.js",
+    "setup": "npm run prestart && npm i @orbitdb/core ipfs-core @orbitdb/identity-provider-ethereum vite-plugin-wasm"
+  },
+  "dependencies": {
+    "@orbitdb/core": "^1.0.0",
+    "@orbitdb/identity-provider-ethereum": "^1.0.0",
+    "ipfs-core": "^0.18.1",
+    "vite": "^4.4.9",
+    "vite-plugin-wasm": "^3.2.2"
+  }
+}
