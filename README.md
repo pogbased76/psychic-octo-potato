@@ -3,6 +3,8 @@ An online decentralized self-regulating marketplace.
 
 ################################ 
  - [] Setup Vite.js
+    - [] setup the server.
+    - [] 
  - [] Add orbitdb successfully
  - [] Add orbitdb-ethereum provider.
  - [] setup your frontend framework correctly to integrate with orbit.
