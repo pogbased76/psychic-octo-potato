@@ -1,0 +1,11 @@
+/home/entredev/Desktop/psychic-octo-potato/src/sc/wallets/target/debug/deps/bls12_381-ee309953260fbd1e.rmeta: /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/lib.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/util.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/notes/design.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/notes/serialization.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/scalar.rs
+
+/home/entredev/Desktop/psychic-octo-potato/src/sc/wallets/target/debug/deps/libbls12_381-ee309953260fbd1e.rlib: /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/lib.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/util.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/notes/design.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/notes/serialization.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/scalar.rs
+
+/home/entredev/Desktop/psychic-octo-potato/src/sc/wallets/target/debug/deps/bls12_381-ee309953260fbd1e.d: /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/lib.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/util.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/notes/design.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/notes/serialization.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/scalar.rs
+
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/lib.rs:
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/util.rs:
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/notes/design.rs:
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/notes/serialization.rs:
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bls12_381-0.8.0/src/scalar.rs:

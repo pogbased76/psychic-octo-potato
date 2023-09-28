@@ -1,2 +1,4 @@
 /target
 /node_modules
+/src/sc/wallets/Cargo.lock
+src/sc/wallets//target

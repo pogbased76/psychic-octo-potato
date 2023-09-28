@@ -13,3 +13,6 @@ web-sys = "0.3.64"
 yew = { version = "0.20.0", features = ["csr"] }
 yew-hooks = "0.2.0"
 yew-router = "0.17.0"
+yew-ethereum-provider = { git = "https://github.com/monomadic/yew-ethereum-provider" }
+log = "0.4.20"
+wasm-logger = "0.2.0"

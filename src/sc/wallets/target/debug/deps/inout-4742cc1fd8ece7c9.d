@@ -1,0 +1,11 @@
+/home/entredev/Desktop/psychic-octo-potato/src/sc/wallets/target/debug/deps/inout-4742cc1fd8ece7c9.rmeta: /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/lib.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/errors.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout_buf.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/reserved.rs
+
+/home/entredev/Desktop/psychic-octo-potato/src/sc/wallets/target/debug/deps/libinout-4742cc1fd8ece7c9.rlib: /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/lib.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/errors.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout_buf.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/reserved.rs
+
+/home/entredev/Desktop/psychic-octo-potato/src/sc/wallets/target/debug/deps/inout-4742cc1fd8ece7c9.d: /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/lib.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/errors.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout_buf.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/reserved.rs
+
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/lib.rs:
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/errors.rs:
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout.rs:
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/inout_buf.rs:
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/inout-0.1.3/src/reserved.rs:

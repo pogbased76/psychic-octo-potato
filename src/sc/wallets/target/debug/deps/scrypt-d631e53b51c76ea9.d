@@ -1,0 +1,11 @@
+/home/entredev/Desktop/psychic-octo-potato/src/sc/wallets/target/debug/deps/scrypt-d631e53b51c76ea9.rmeta: /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/lib.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/errors.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/params.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/romix.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/simple.rs
+
+/home/entredev/Desktop/psychic-octo-potato/src/sc/wallets/target/debug/deps/libscrypt-d631e53b51c76ea9.rlib: /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/lib.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/errors.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/params.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/romix.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/simple.rs
+
+/home/entredev/Desktop/psychic-octo-potato/src/sc/wallets/target/debug/deps/scrypt-d631e53b51c76ea9.d: /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/lib.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/errors.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/params.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/romix.rs /home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/simple.rs
+
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/lib.rs:
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/errors.rs:
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/params.rs:
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/romix.rs:
+/home/entredev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scrypt-0.11.0/src/simple.rs:
