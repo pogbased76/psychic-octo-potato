@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start":"vite; trunk serve --open",
+    "start":"trunk build; vite",
     "prestart": "node prestart.js",
     "setup": "npm run prestart && npm i @orbitdb/core ipfs-core @orbitdb/identity-provider-ethereum vite-plugin-wasm"
   },
